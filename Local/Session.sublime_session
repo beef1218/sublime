@@ -1,0 +1,997 @@
+{
+	"folder_history":
+	[
+		"/Users/andy.liu/Documents/CRM"
+	],
+	"last_version": 3143,
+	"last_window_id": 19,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 935.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/andy.liu/Desktop/Scripts/itsms.properties",
+				"/Users/andy.liu/Documents/itsm_notes.txt",
+				"/Users/andy.liu/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/andy.liu/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 44.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1680.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/andy.liu/Documents/machineLearning/ml-class/keras-cnn-2.py",
+					"settings":
+					{
+						"buffer_size": 1279,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/andy.liu/Documents/itsm_notes.txt",
+					"settings":
+					{
+						"buffer_size": 252,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/andy.liu/Documents/CRM/SSASplitAdjustorUtil.js",
+					"settings":
+					{
+						"buffer_size": 44189,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "parent opty: O1, rep: kevin, account territory: T1\n\n\nsplit with Karl from T2 (Field Territory / MSP Territory)\n\nsplit opty: O2 (postive with rep Karl), O3 (negative with rep Kevin)\n\ncloning sales team records from O1 to O3\non O2: delete sales team records that were from T1, do assignment for everyone from T2",
+					"settings":
+					{
+						"buffer_size": 309,
+						"line_ending": "Unix",
+						"name": "parent opty: O1, rep: kevin, account territory: T1"
+					}
+				},
+				{
+					"file": "/Users/andy.liu/Documents/CRM/SLS_NewLogoHelper.js",
+					"settings":
+					{
+						"buffer_size": 22864,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/andy.liu/Documents/itsm_notes.txt",
+				"/Users/andy.liu/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/andy.liu/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 44.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"commi"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/andy.liu/Documents/machineLearning/ml-class/keras-cnn-2.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1279,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										295,
+										295
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 88.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/andy.liu/Documents/itsm_notes.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 252,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										252,
+										252
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/andy.liu/Documents/CRM/SSASplitAdjustorUtil.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 44189,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										37025,
+										37025
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 20103.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 309,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										309,
+										309
+									]
+								],
+								"settings":
+								{
+									"auto_name": "parent opty: O1, rep: kevin, account territory: T1",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/andy.liu/Documents/CRM/SLS_NewLogoHelper.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 22864,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19581,
+										19581
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 8893.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 -1920 70 1680 957 -1920 -30 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 18,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Sr Director: paul nilsen\nOther Director / manager: Derick, Jay Alberts\n\nAnalysis: Wim Verjil, Gizem (Turky), Ana (queen) (Romania)\n\nManager: Nick Allen\n\nLeads: Nathalie, Silvio (OM)\n\nOM: Silvio, Marcela (Mercy), Meagueal (Mig)\n\nSOPS: Alex (Romania), Anibal (lead), Denialla, Eda (Turky), Asia, Asna (Turky), Nikki (Greece), Aisling (Ireland), Ioana, Mirna (Partner portal)\n\nRenewals: Marco (Italy), Claudio (manager), Andreea, Isabela \n\n\n7654312\n\n543721",
+					"settings":
+					{
+						"buffer_size": 453,
+						"line_ending": "Unix",
+						"name": "Sr Director: paul nilsen"
+					}
+				},
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/andy.liu/Documents/CRM/SalesTeam/SalesTeamSecurityHelper.js",
+					"settings":
+					{
+						"buffer_size": 25547,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/andy.liu/Documents/CRM/SLS_NewLogoHelper.js",
+					"settings":
+					{
+						"buffer_size": 22864,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<xml>\n    <sales_opportunity>\n        <account display_value=\"Schott AG\">afc1fada5b35100083193b9b3e425448</account>\n        <active>true</active>\n        <allowable_discount_level/>\n        <close_date>2017-09-28</close_date>\n        <double_compensation_overlay/>\n        <expected_date/>\n        <flags>a36e76671300ea00a5e739fed144b0d3</flags>\n        <maximum_discount/>\n        <name>Schott - Change Mgt. Phase 2</name>\n        <number>OPTY0555589</number>\n        <owner display_value=\"Holger Hoeft\">8d57839a2b065600bc1b28ac27da15a0</owner>\n        <partner_percent/>\n        <partnership_type>Teaming - Without Fee</partnership_type>\n        <pipeline_status>expect</pipeline_status>\n        <price_band display_value=\"Band 4\">9bd651e837ca0e0084f72553b3990ea6</price_band>\n        <probability/>\n        <probability_percent/>\n        <product/>\n        <product_pairing_json>\n            [{\"deleted\":\"false\",\"line_sys_id\":\"\",\"mandatory\":\"true\",\"modified\":\"false\",\"pp_sys_id\":\"4296fdf31302e244f57238fed144b014\",\"quantity\":\"1\",\"sys_id\":\"32fd750c9178a500184d33efe8afb3c4\"},{\"deleted\":\"false\",\"line_sys_id\":\"555c5e76db91fec08df6f4bbaf961995\",\"mandatory\":\"false\",\"modified\":\"false\",\"pp_sys_id\":\"b79050a4db51b24066d8f4bbaf961919\",\"quantity\":\"3\",\"sys_id\":\"a6dc9bf39d422100c976b8eeb2963cd6\"},{\"deleted\":\"false\",\"line_sys_id\":\"845700bbdb7732c0014fffd51d9619c3\",\"mandatory\":\"false\",\"modified\":\"false\",\"pp_sys_id\":\"e2caa8acdb67f2c40576fb371d96196d\",\"quantity\":\"3\",\"sys_id\":\"c5147922db573a8012c0f5771d96192e\"}]\n        </product_pairing_json>\n        <sales_partner display_value=\"solid-serVision.com GmbH\">316ca5610a0a3c7900ad680a570528f7</sales_partner>\n        <short_description/>\n        <stage>pov_validation_completed</stage>\n        <sys_class_name>sales_opportunity</sys_class_name>\n        <sys_created_by>Markus.Josua</sys_created_by>\n        <sys_created_on>2016-06-17 10:28:54</sys_created_on>\n        <sys_domain>317b06280a0a3c7900e5f0e77250b725</sys_domain>\n        <sys_domain_path>!!!/!&|/!!}/</sys_domain_path>\n        <sys_id>f51287f1db4826c4dbadf4bbaf96193c</sys_id>\n        <sys_mod_count>1288</sys_mod_count>\n        <sys_updated_by>holger.hoeft</sys_updated_by>\n        <sys_updated_on>2017-09-15 07:39:54</sys_updated_on>\n        <total_value>0</total_value>\n        <type>License Upsell</type>\n        <u_approval_discount>72.75</u_approval_discount>\n        <u_approval_territory display_value=\"GERITEU-TER-4\">feeb289f6fb0dac036e2320b8b3ee4d7</u_approval_territory>\n        <u_approved_discount_seats>10</u_approved_discount_seats>\n        <u_approved_discount_servers>10</u_approved_discount_servers>\n        <u_ar_notes/>\n        <u_auditing_notes/>\n        <u_auto_renewal_flag>false</u_auto_renewal_flag>\n        <u_base_currency display_value=\"EUR\">EUR</u_base_currency>\n        <u_business_unit_list>\n            f9817c83dbeb96004a54f4bbaf9619b3,6a5fdd87dbaf96004a54f4bbaf9619cb\n        </u_business_unit_list>\n        <u_campaign_history/>\n        <u_channel_manager display_value=\"Nicola Demattia\">619a0c5b2bd1d644bc1b28ac27da1569</u_channel_manager>\n        <u_close_date___date_dimension display_value=\"2017-09-28\">f859cdb9607130c068d07268c841dc80</u_close_date___date_dimension>\n        <u_close_month>2017-09(Sep)</u_close_month>\n        <u_closed_at_exchange_rate/>\n        <u_collab_msg/>\n        <u_commission_exception/>\n        <u_competitive_notes/>\n        <u_competitive_reason/>\n        <u_competitive_status>2</u_competitive_status>\n        <u_consolidated_discount/>\n        <u_constant_fiscal_year>2017</u_constant_fiscal_year>\n        <u_constant_fx_rate>0.9615385</u_constant_fx_rate>\n        <u_contract display_value=\"BV-17312AM\">cb19af86a5a2384010176e65e7b90753</u_contract>\n        <u_contract_duration>15</u_contract_duration>\n        <u_contract_end_date>2018-12-31</u_contract_end_date>\n        <u_contract_signed_date/>\n        <u_contract_status>Order Form Approved</u_contract_status>\n        <u_contract_type>MOA</u_contract_type>\n        <u_credit_card_order>false</u_credit_card_order>\n        <u_credit_card_transaction_id/>\n        <u_data_center>Europe</u_data_center>\n        <u_deal_registration display_value=\"Schott AG - Extension CHMG Rollout\">cf378354db3ba2804282750aaf96198c</u_deal_registration>\n        <u_dedicated_server>false</u_dedicated_server>\n        <u_discount_percent/>\n        <u_discount_percent_seats/>\n        <u_discount_percent_servers/>\n        <u_discount_price_per_seat/>\n        <u_discount_price_per_server/>\n        <u_education_isr display_value=\"Kirsten Hill\">edc42f1e2b878a00bc1b28ac27da15f0</u_education_isr>\n        <u_end_customer/>\n        <u_express_conversion/>\n        <u_express_logo_override/>\n        <u_express_new_logo>false</u_express_new_logo>\n        <u_final_order_form_output>surf</u_final_order_form_output>\n        <u_first_closed_by/>\n        <u_first_closed_on/>\n        <u_forecast_type>0</u_forecast_type>\n        <u_forecast_type_override>false</u_forecast_type_override>\n        <u_from_express_ar>false</u_from_express_ar>\n        <u_fsi_partner/>\n        <u_fx_rate_string/>\n        <u_gpp_driven>false</u_gpp_driven>\n        <u_gross_acv/>\n        <u_gross_price_per_seat/>\n        <u_gross_price_per_server/>\n        <u_gsi_product/>\n        <u_gsi_product_offering>false</u_gsi_product_offering>\n        <u_ha_dr>false</u_ha_dr>\n        <u_has_future_upsell>false</u_has_future_upsell>\n        <u_hr_sales_specialist display_value=\"Hitesh Tailor\">3ebd11d7db84aac0991cf4bbaf9619d8</u_hr_sales_specialist>\n        <u_implementation_partner/>\n        <u_imported_from_hi>false</u_imported_from_hi>\n        <u_incumbent>Service-now.com</u_incumbent>\n        <u_inside_sales_rep/>\n        <u_integration_record/>\n        <u_integration_table/>\n        <u_isr_interaction>Field Only</u_isr_interaction>\n        <u_lead_number/>\n        <u_lead_source/>\n        <u_logo_override/>\n        <u_master_quote display_value=\"QUO0555589-1\">f0d9ca97db004b40014fffd51d961950</u_master_quote>\n        <u_matrix_price_per_seat/>\n        <u_matrix_price_per_server/>\n        <u_meeting_display_flag>false</u_meeting_display_flag>\n        <u_meeting_id/>\n        <u_msp/>\n        <u_msp_sales/>\n        <u_msp_territory/>\n        <u_net_new_acv>€ 24,816.00</u_net_new_acv>\n        <u_net_new_seats/>\n        <u_net_new_servers/>\n        <u_net_price_per_seat/>\n        <u_net_price_per_server/>\n        <u_new_logo>false</u_new_logo>\n        <u_next_steps_journaled/>\n        <u_notes/>\n        <u_notification_rule/>\n        <u_number_of_seats/>\n        <u_number_of_servers/>\n        <u_offsetting_opportunity/>\n        <u_opp_competition/>\n        <u_opportunity_link_reason/>\n        <u_opportunity_source>Field</u_opportunity_source>\n        <u_option_self_hosted_w_o_sig_penalty>false</u_option_self_hosted_w_o_sig_penalty>\n        <u_order_form_output_reason/>\n        <u_order_term_days/>\n        <u_order_term_end_date>2018-12-31</u_order_term_end_date>\n        <u_order_term_start_date>2017-09-29</u_order_term_start_date>\n        <u_other_competitor>do nothing</u_other_competitor>\n        <u_other_discount/>\n        <u_other_revenue>€ 0.00</u_other_revenue>\n        <u_overlay_isr/>\n        <u_pa_sales_specialist display_value=\"Shirief Nosseir\">261ae75edbd632843e38ff661d961906</u_pa_sales_specialist>\n        <u_parent display_value=\"Schott - Change Mgt. Phase 2\">f51287f1db4826c4dbadf4bbaf96193c</u_parent>\n        <u_partner_influencer/>\n        <u_partner_notes/>\n        <u_partnered>true</u_partnered>\n        <u_payment_schedule>Annual</u_payment_schedule>\n        <u_price_book display_value=\"Price Book - SNC\">c1ecd990a414090006ff2f73a1e8e8ac</u_price_book>\n        <u_primary_competitor display_value=\"None - Existing Customer\">f29ba759371f064098ced8d543990e87</u_primary_competitor>\n        <u_product_specialist_notes/>\n        <u_product_technology_partner/>\n        <u_ps_engagement_manager/>\n        <u_ps_recognizable_revenue/>\n        <u_ps_revenue>€ 0.00</u_ps_revenue>\n        <u_ps_teaming/>\n        <u_ps_territory display_value=\"PS Germany\">8a435cc9550d71c0101701515914bbaf</u_ps_territory>\n        <u_quote_owner display_value=\"Holger Hoeft\">8d57839a2b065600bc1b28ac27da15a0</u_quote_owner>\n        <u_quoteapproved>true</u_quoteapproved>\n        <u_reason_code/>\n        <u_renewal_acv>€ 136,620.00</u_renewal_acv>\n        <u_renewal_acv_const>142084.79</u_renewal_acv_const>\n        <u_renewal_category/>\n        <u_renewal_percent_increase>0</u_renewal_percent_increase>\n        <u_renewal_status/>\n        <u_route_to_market/>\n        <u_runtime_licenses_opportunity/>\n        <u_sales_operations_notes/>\n        <u_sales_order_number/>\n        <u_sales_quarter>17-Q3</u_sales_quarter>\n        <u_salesteam_users>\n            64385575dbdc2e04991cf4bbaf9619ee,2d9ac7e724147c80772e280e796edd0e,edc42f1e2b878a00bc1b28ac27da15f0,19a4d81c2bd8de00cfa428ac27da15ac,924815959c5cd9c8c602648f3b3d5880,f35291db300e3900772e2bddb4b037fa,f35291db300e3900772e2bddb4b037fa,f35291db300e3900772e2bddb4b037fa,c780e8455b81e4c083193b9b3e4254ef,07ebcafc6f26fd00575967ddbb3ee421,619a0c5b2bd1d644bc1b28ac27da1569,9a2fad8c0f43610029fa348ce1050e61,9a2fad8c0f43610029fa348ce1050e61,f25b1abedb3ba2404adbf4621f9619ce,b3e8868f2b305604bc1b28ac27da156f,d05c4cafdb18bac0427b750aaf9619d0,261ae75edbd632843e38ff661d961906,021ad7f02bf01204bc1b28ac27da15b5,251363d6db3a6200991cf4bbaf961990,dcf0969c906ec104ee51ddcfcac891cb,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,261ae75edbd632843e38ff661d961906,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,995c20d4db5cbe807d8574921f9619ba,261ae75edbd632843e38ff661d961906,51fbf5802b5e5a00bc1b28ac27da15d7,8d57839a2b065600bc1b28ac27da15a0,edc42f1e2b878a00bc1b28ac27da15f0,07ebcafc6f26fd00575967ddbb3ee421,edc42f1e2b878a00bc1b28ac27da15f0,dcf0969c906ec104ee51ddcfcac891cb,995c20d4db5cbe807d8574921f9619ba,261ae75edbd632843e38ff661d961906,6b463809dbd072c0991cf4bbaf961970\n        </u_salesteam_users>\n        <u_sap_contract_id/>\n        <u_sap_contract_id_req_status/>\n        <u_sap_manual_override>false</u_sap_manual_override>\n        <u_sap_vendor_id/>\n        <u_secodary_sales_partner/>\n        <u_seconady_partnership_type/>\n        <u_secondary_competitor/>\n        <u_secondary_deal_registraion_n/>\n        <u_secondary_deal_registraion_s/>\n        <u_secondary_partner/>\n        <u_secondary_partner_manager/>\n        <u_secondary_partner_notes/>\n        <u_security_sales_specialist/>\n        <u_snot/>\n        <u_solution_consultant display_value=\"Markus Dillmann\">9a2fad8c0f43610029fa348ce1050e61</u_solution_consultant>\n        <u_sourced>false</u_sourced>\n        <u_specialist_overlay display_value=\"Patrick Guender\">874e0b45db6d36407afaf4621f961989</u_specialist_overlay>\n        <u_split/>\n        <u_split_with/>\n        <u_ssa_rollup_acv_amount>24816</u_ssa_rollup_acv_amount>\n        <u_ssa_rollup_acv_string>€ 24,816.00</u_ssa_rollup_acv_string>\n        <u_ssa_rollup_acv_usd_a>29493.82</u_ssa_rollup_acv_usd_a>\n        <u_ssa_rollup_acv_usd_const>25808.64</u_ssa_rollup_acv_usd_const>\n        <u_ssa_rollup_acv_usd_s>$(USD) 29,493.82</u_ssa_rollup_acv_usd_s>\n        <u_ssa_rollup_license_amount>31157.86</u_ssa_rollup_license_amount>\n        <u_ssa_rollup_license_string>€ 31,157.86</u_ssa_rollup_license_string>\n        <u_ssa_rollup_license_val_usd_a>37031.13</u_ssa_rollup_license_val_usd_a>\n        <u_ssa_rollup_license_val_usd_const>32404.17</u_ssa_rollup_license_val_usd_const>\n        <u_ssa_rollup_license_val_usd_s>$(USD) 37,031.13</u_ssa_rollup_license_val_usd_s>\n        <u_ssa_rollup_netnewacv_a>24816</u_ssa_rollup_netnewacv_a>\n        <u_ssa_rollup_netnewacv_s>€ 24,816.00</u_ssa_rollup_netnewacv_s>\n        <u_ssa_rollup_netnewacv_usd_a>29493.82</u_ssa_rollup_netnewacv_usd_a>\n        <u_ssa_rollup_netnewacv_usd_const>25808.64</u_ssa_rollup_netnewacv_usd_const>\n        <u_ssa_rollup_netnewacv_usd_s>$(USD) 29,493.82</u_ssa_rollup_netnewacv_usd_s>\n        <u_ssa_rollup_netnewacv_w_usd_a>20645.67</u_ssa_rollup_netnewacv_w_usd_a>\n        <u_ssa_rollup_netnewacv_w_usd_const>18066.05</u_ssa_rollup_netnewacv_w_usd_const>\n        <u_ssa_rollup_netnewacv_w_usd_s>$(USD) 20,645.67</u_ssa_rollup_netnewacv_w_usd_s>\n        <u_ssa_rollup_other_amount>0</u_ssa_rollup_other_amount>\n        <u_ssa_rollup_other_rev_usd_a>0</u_ssa_rollup_other_rev_usd_a>\n        <u_ssa_rollup_other_rev_usd_const>0</u_ssa_rollup_other_rev_usd_const>\n        <u_ssa_rollup_other_rev_usd_s>$(USD) 0.00</u_ssa_rollup_other_rev_usd_s>\n        <u_ssa_rollup_other_string>€ 0.00</u_ssa_rollup_other_string>\n        <u_ssa_rollup_partner_amount/>\n        <u_ssa_rollup_partner_rev_usd>0</u_ssa_rollup_partner_rev_usd>\n        <u_ssa_rollup_partner_string/>\n        <u_ssa_rollup_serv_amount>0</u_ssa_rollup_serv_amount>\n        <u_ssa_rollup_serv_rev_usd_a>0</u_ssa_rollup_serv_rev_usd_a>\n        <u_ssa_rollup_serv_rev_usd_const>0</u_ssa_rollup_serv_rev_usd_const>\n        <u_ssa_rollup_serv_rev_usd_s>$(USD) 0.00</u_ssa_rollup_serv_rev_usd_s>\n        <u_ssa_rollup_serv_string>€ 0.00</u_ssa_rollup_serv_string>\n        <u_ssa_rollup_train_amount>0</u_ssa_rollup_train_amount>\n        <u_ssa_rollup_train_rev_usd_a>0</u_ssa_rollup_train_rev_usd_a>\n        <u_ssa_rollup_train_rev_usd_const>0</u_ssa_rollup_train_rev_usd_const>\n        <u_ssa_rollup_train_rev_usd_s>$(USD) 0.00</u_ssa_rollup_train_rev_usd_s>\n        <u_ssa_rollup_train_string>€ 0.00</u_ssa_rollup_train_string>\n        <u_ssa_rollup_training_rev/>\n        <u_ssa_rollup_ttl_serv_amount>0</u_ssa_rollup_ttl_serv_amount>\n        <u_ssa_rollup_ttl_serv_string>€ 0.00</u_ssa_rollup_ttl_serv_string>\n        <u_ssa_rollup_ttl_serv_usd_a>0</u_ssa_rollup_ttl_serv_usd_a>\n        <u_ssa_rollup_ttl_serv_usd_const>0</u_ssa_rollup_ttl_serv_usd_const>\n        <u_ssa_rollup_ttl_serv_usd_s>$(USD) 0.00</u_ssa_rollup_ttl_serv_usd_s>\n        <u_start_date>2016-06-17</u_start_date>\n        <u_start_date___date_dimension display_value=\"2016-06-17\">c4598db9607130c068d07268c841dcc0</u_start_date___date_dimension>\n        <u_support_partner/>\n        <u_term>15.06666666667</u_term>\n        <u_term_months_and_days>15 Months, 2 Days</u_term_months_and_days>\n        <u_termination_for_convenience/>\n        <u_territory display_value=\"GERITEU-TER-4\">feeb289f6fb0dac036e2320b8b3ee4d7</u_territory>\n        <u_total_acv>€ 24,816.00</u_total_acv>\n        <u_total_acv_and_rec_services/>\n        <u_total_annual_list_price>1148382</u_total_annual_list_price>\n        <u_total_value>€ 31,157.86</u_total_value>\n        <u_updated_to_contract>false</u_updated_to_contract>\n        <u_upsell_percent_increase>19.86</u_upsell_percent_increase>\n        <u_usd_annual_revenue/>\n        <u_usd_discount_price_per_serve/>\n        <u_usd_discount_seat_price/>\n        <u_usd_gross_price_per_seat/>\n        <u_usd_gross_price_per_server/>\n        <u_usd_matrix_price_per_seat/>\n        <u_usd_matrix_price_per_server/>\n        <u_usd_net_new_acv>29493.82</u_usd_net_new_acv>\n        <u_usd_net_price_per_seat/>\n        <u_usd_net_price_per_server/>\n        <u_usd_other_discount/>\n        <u_usd_other_revenue>0</u_usd_other_revenue>\n        <u_usd_price_per_server/>\n        <u_usd_ps_rec_revenue/>\n        <u_usd_ps_revenue>0</u_usd_ps_revenue>\n        <u_usd_renewal_acv>148533.26</u_usd_renewal_acv>\n        <u_usd_total_acv>29493.82</u_usd_total_acv>\n        <u_usd_total_annual_list_price>1262362.56</u_usd_total_annual_list_price>\n        <u_usd_total_value>37031.13</u_usd_total_value>\n        <u_usd_weighted_acv>20645.67</u_usd_weighted_acv>\n        <u_use_line_items>true</u_use_line_items>\n        <u_value_promter_master display_value=\"VSPR0007572\">4b9c3059db24aa0c66d8f4bbaf9619ff</u_value_promter_master>\n        <u_weighted_acv/>\n        <u_weighted_percentage>70</u_weighted_percentage>\n        <u_win_loss_dead_notes/>\n    </sales_opportunity>\n</xml>",
+					"settings":
+					{
+						"buffer_size": 22475,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "var logSource = 'renewalACVFix';\ngs.log('fix script start', logSource);\n\nvar optyNum = 'OPTY0555589';\nvar opty = new GlideRecord('sales_opportunity');\nopty.get('number', optyNum);\n\nif(opty.isValidRecord()) {\n\topty.u_renewal_acv = '€ 0.00';\n\topty.u_renewal_acv_const = 0;\n\topty.u_usd_renewal_acv = 0;\n\topty.setWorkflow(false);\n\topty.update();\n\tgs.log(optyNum + ' updated', logSource);\n}\ngs.log('fix script completed', logSource);\n",
+					"file": "/Users/andy.liu/Documents/OPTY0555589_datafix.js",
+					"file_size": 437,
+					"file_write_time": 131503182570000000,
+					"settings":
+					{
+						"buffer_size": 429,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/andy.liu/Documents/CRM/SalesTeam/SalesTeamAccessDAO.js",
+					"settings":
+					{
+						"buffer_size": 59710,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/andy.liu/Documents/CRM/SalesTeam/SalesTeamAccessService.js",
+					"settings":
+					{
+						"buffer_size": 51521,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/andy.liu/Documents/CRM"
+			],
+			"file_history":
+			[
+				"/Users/andy.liu/Documents/itsm_notes.txt",
+				"/Users/andy.liu/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/andy.liu/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 44.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"region",
+					"renewal",
+					"sales_newlogo_opty_update",
+					"updateNewLogoOnOpty"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/andy.liu/Documents/CRM"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 453,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										453,
+										453
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Sr Director: paul nilsen",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/andy.liu/Documents/CRM/SalesTeam/SalesTeamSecurityHelper.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25547,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9685,
+										9685
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4513.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/andy.liu/Documents/CRM/SLS_NewLogoHelper.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 22864,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6070,
+										6070
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2419.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 22475,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										21863,
+										21880
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 7147.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/andy.liu/Documents/OPTY0555589_datafix.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 429,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										429,
+										429
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/andy.liu/Documents/CRM/SalesTeam/SalesTeamAccessDAO.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 59710,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14180,
+										14180
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6758.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/andy.liu/Documents/CRM/SalesTeam/SalesTeamAccessService.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 51521,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										50351,
+										50351
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 23740.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 -1800 20 1680 957 -1920 -30 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
